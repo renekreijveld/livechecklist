@@ -7,8 +7,6 @@ Checklist to check before a Joomla website goes live:
 * ACL Manager installed and configured?
 
 ## Joomla configuration
-* Caching setup?
-* Cleared cache/tmp folders?
 * General email address setup?
 * Mail Settings setup and SMTP server setup?
 * Session settings setup?
@@ -36,8 +34,8 @@ Checklist to check before a Joomla website goes live:
 * Redirect non-www to www setup in .htaccess?
 * Added line to show XMAP sitemap as sitemap.xml?
 
-## Admin Tools Pro
-* Admin Tools Pro installed and configured
+## Security
+* Admin Tools Pro / jHackGuard installed and configured?
 * Admin Tools Pro Never block these IPs [your own IP-address]
 * Block access to /administrator with admin secret URL parameter or use IP whitelist for /administrator
 
@@ -53,6 +51,17 @@ Checklist to check before a Joomla website goes live:
 * Certificate setup (if necessary)?
 * Activated HTTPS (if necessary)?
 * Admin Tools Pro: Convert all links to HTTPS when site is accessed over SSL (if necessary)
+
+## Optimisation / SEO
+* SEF URLs / sh404SEF installed and configured?
+* URL and Meta Tag Manager installed and configured?
+* Mootools enabler/disabler active?
+* Caching setup?
+* Cleared cache/tmp folders?
+* JCH Optimize pro / Scriptmerge / jBetolo installed and configured
+* CDN activated?
+* Cookie Law / Cookie alert
+* Social Share / AddThis installed and configured?
 
 ## Diversen
 * Google Analytics setup?

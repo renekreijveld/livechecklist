@@ -7,8 +7,6 @@ Checklist ter controle voor livegang van een nieuwe Joomla website:
 * ACL Manager ingericht?
 
 ## Joomla configuratie
-* Caching ingesteld?
-* Leegmaken cache/tmp mappen?
 * Algemeen e-mailadres website ingesteld?
 * SMTP server ingesteld in de e-mailinstellingen?
 * Sessie levensduur ingesteld?
@@ -36,10 +34,11 @@ Checklist ter controle voor livegang van een nieuwe Joomla website:
 * Redirect non-www to www ingesteld in .htaccess?
 * Regel toegevoegd zodat XMAP sitemap getoond kan worden als sitemap.xml?
 
-## Admin Tools Pro
-* Admin Tools Pro ingesteld?
+## Beveiliging
+* Admin Tools Pro / jHackGuard geïnstalleerd en geconfigureerd?
 * Admin Tools Pro Never block these IPs [eigen IP-adres]
 * Toegang blokkeren tot /administrator of IP whitelist gebruiken voor /administrator
+
 
 ## JCE Editor
 * "optimized" profile ingesteld?
@@ -53,6 +52,17 @@ Checklist ter controle voor livegang van een nieuwe Joomla website:
 * Certificaat overgezet (indien nodig)?
 * HTTPS aangezet (indien nodig)?
 * Admin Tools Pro: Convert all links to HTTPS when site is accessed over SSL (indien nodig)
+
+## Optimalisatie / SEO
+* SEF URL's / sh404SEF geïnstalleerd en geconfigureerd?
+* URL en Meta Tag Manager geïnstalleerd en geconfigureerd?
+* Mootools enabler/disabler actief?
+* Caching ingesteld?
+* Leegmaken cache/tmp mappen?
+* JCH Optimize pro / Scriptmerge / jBetolo geïnstalleerd en geconfigureerd?
+* CDN geactiveerd?
+* Cookie Law / Cookie alert
+* Social Share / AddThis geïnstalleerd en geconfigureerd?
 
 ## Diversen
 * Google Analytics ingesteld?

@@ -36,7 +36,7 @@ Checklist ter controle voor livegang van een nieuwe Joomla website:
 
 ## Admin Tools Pro
 * Admin Tools Pro ingesteld?
-* Admin Tools Pro Never block these IPs <eigen IP-adres>
+* Admin Tools Pro Never block these IPs [eigen IP-adres]
 
 ## HTTPS
 * Certificaat overgezet (indien nodig)?
@@ -47,4 +47,5 @@ Checklist ter controle voor livegang van een nieuwe Joomla website:
 * Google Analytics ingesteld?
 * Watchful.li ingesteld?
 * Backupschema actief?
+* Backuk EN restore getest?
 * FTP login aangemaakt voor beheer?

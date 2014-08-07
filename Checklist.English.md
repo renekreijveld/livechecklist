@@ -36,7 +36,7 @@ Checklist to check before a Joomla website goes live:
 
 ## Admin Tools Pro
 * Admin Tools Pro installed and configured
-* Admin Tools Pro Never block these IPs <your own IP-address>
+* Admin Tools Pro Never block these IPs [your own IP-address]
 
 ## HTTPS
 * Certificate setup (if necessary)?
@@ -47,4 +47,5 @@ Checklist to check before a Joomla website goes live:
 * Google Analytics setup?
 * Watchful.li setup?
 * Is there a backup scheme?
+* Backup AND restore tested?
 * FTP login created for support?

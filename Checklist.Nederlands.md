@@ -44,7 +44,7 @@ Checklist ter controle voor livegang van een nieuwe Joomla website:
 * Joomla - editors-xtd plugins unpublished?
 
 ## XMap
-* Sitemap voor menu's aangemaakt ?
+* Sitemap voor menu's aangemaakt?
 * XML Sitemap aan Google Webmaster Tools toegevoegd?
 
 ## HTTPS

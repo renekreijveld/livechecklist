@@ -44,7 +44,7 @@ Checklist to check before a Joomla website goes live:
 * Joomla - editors-xtd plugins unpublished?
 
 ## XMap
-* Sitemap created for all menu's ?
+* Sitemap created for all menu's?
 * XML Sitemap added to Google Webmaster Tools?
 
 ## HTTPS

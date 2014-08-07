@@ -12,6 +12,7 @@ Checklist ter controle voor livegang van een nieuwe Joomla website:
 * Algemeen e-mailadres website ingesteld?
 * SMTP server ingesteld in de e-mailinstellingen?
 * Sessie levensduur ingesteld?
+* Template "Preview Module Positions" uitgezet?
 
 ## Gebruikers
 * Onnodige logins verwijderd?

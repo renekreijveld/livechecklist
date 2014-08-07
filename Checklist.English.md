@@ -38,7 +38,7 @@ Checklist to check before a Joomla website goes live:
 ## Admin Tools Pro
 * Admin Tools Pro installed and configured
 * Admin Tools Pro Never block these IPs [your own IP-address]
-* Block access to /administrator
+* Block access to /administrator with admin secret URL parameter or use IP whitelist for /administrator
 
 ## JCE Editor
 * optimized profile added/configured?

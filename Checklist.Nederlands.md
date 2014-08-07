@@ -21,6 +21,7 @@ Checlist ter controle voor livegang van een nieuwe Joomla website:
 ## Content
 * Oude content opgeschoond?
 * Onnodige bestanden/documenten verwijderd?
+* Alle verwijderde content ook echt verwijderd (prullebak legen artikelen, categorieen, menu items, modules)?
 * Development URL's in de database vervangen naar productie URL's?
 * Robots.txt goed gezet?
 * Favicon aanwezig?

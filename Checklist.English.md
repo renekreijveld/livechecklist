@@ -1,4 +1,4 @@
-Checklist to check before a Joomla website goes live::
+Checklist to check before a Joomla website goes live:
 
 ## Joomla/Extensies
 * Unpublish or uninstalled all unused extensions?
@@ -22,7 +22,7 @@ Checklist to check before a Joomla website goes live::
 * Removed all unused content?
 * Removed all unused files and images?
 * Removed all deleted content (empty trash articles, categories, menu items, modules)?
-* Replaced Development URLs in the database with production URLs?
+* Replaced development URLs in the database with production URLs?
 * Robots.txt setup?
 * Favicon installed?
 * URL redirects from old site to new site setup?

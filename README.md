@@ -1,22 +1,24 @@
-# Joomla/Extensies
+Checlist ter controle voor livegang van een nieuwe Joomla website:
+
+## Joomla/Extensies
 * Niet gebruikte extensies gedepubliceerd of verwijderd?
 * Joomla en alle extensies up-to-date?
 * Niet gebruikte templates verwijderd?
 * ACL Manager ingericht?
 
-# Joomla configuratie
+## Joomla configuratie
 * Caching ingesteld?
 * Leegmaken cache/tmp mappen?
 * Algemeen e-mailadres website ingesteld?
 * SMTP server ingesteld in de e-mailinstellingen?
 * Sessie levensduur ingesteld?
 
-# Gebruikers
+## Gebruikers
 * Onnodige logins verwijderd?
 * Gebruikersregistratie toestaan uitzetten (indien nodig)
 * Wachtwoord complexiteit ingesteld?
 
-# Content
+## Content
 * Oude content opgeschoond?
 * Onnodige bestanden/documenten verwijderd?
 * Development URL's in de database vervangen naar productie URL's?
@@ -28,19 +30,19 @@
 * Overbodige zoekplugins uit gezet?
 * Zoekplugins in de juiste volgorde?
 
-# .htaccess
+## .htaccess
 * Redirect non-www to www ingesteld in .htaccess?
 
-# Admin Tools Pro
+## Admin Tools Pro
 * Admin Tools Pro ingesteld?
 * Admin Tools Pro Never block these IPs <eigen IP-adres>
 
-# HTTPS
+## HTTPS
 * Certificaat overgezet (indien nodig)?
 * HTTPS aangezet (indien nodig)?
 * Admin Tools Pro: Convert all links to HTTPS when site is accessed over SSL (indien nodig)
 
-# Diversen
+## Diversen
 * Google Analytics ingesteld?
 * Watchful.li ingesteld?
 * Backupschema actief?

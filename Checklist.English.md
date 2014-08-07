@@ -34,6 +34,7 @@ Checklist to check before a Joomla website goes live:
 
 ## .htaccess
 * Redirect non-www to www setup in .htaccess?
+* Added line to show XMAP sitemap as sitemap.xml?
 
 ## Admin Tools Pro
 * Admin Tools Pro installed and configured

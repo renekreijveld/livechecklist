@@ -34,6 +34,7 @@ Checklist ter controle voor livegang van een nieuwe Joomla website:
 
 ## .htaccess
 * Redirect non-www to www ingesteld in .htaccess?
+* Regel toegevoegd zodat XMAP sitemap getoond kan worden als sitemap.xml?
 
 ## Admin Tools Pro
 * Admin Tools Pro ingesteld?

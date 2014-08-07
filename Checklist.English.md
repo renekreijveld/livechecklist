@@ -39,6 +39,14 @@ Checklist to check before a Joomla website goes live:
 * Admin Tools Pro Never block these IPs [your own IP-address]
 * Block access to /administrator
 
+## JCE Editor
+* optimized profile added/configured?
+* Joomla - editors-xtd plugins unpublished?
+
+## XMap
+* Sitemap created for all menu's ?
+* XML Sitemap added to Google Webmaster Tools?
+
 ## HTTPS
 * Certificate setup (if necessary)?
 * Activated HTTPS (if necessary)?

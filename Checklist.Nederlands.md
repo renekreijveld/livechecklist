@@ -47,5 +47,5 @@ Checklist ter controle voor livegang van een nieuwe Joomla website:
 * Google Analytics ingesteld?
 * Watchful.li ingesteld?
 * Backupschema actief?
-* Backuk EN restore getest?
+* Backup EN restore getest?
 * FTP login aangemaakt voor beheer?

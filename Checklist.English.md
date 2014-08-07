@@ -12,6 +12,7 @@ Checklist to check before a Joomla website goes live:
 * General email address setup?
 * Mail Settings setup and SMTP server setup?
 * Session settings setup?
+* Template "Preview Module Positions" disabled?
 
 ## Users
 * Removed all unused logins?

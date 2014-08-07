@@ -37,6 +37,7 @@ Checklist ter controle voor livegang van een nieuwe Joomla website:
 ## Admin Tools Pro
 * Admin Tools Pro ingesteld?
 * Admin Tools Pro Never block these IPs [eigen IP-adres]
+* Toegang blokkeren tot /administrator
 
 ## HTTPS
 * Certificaat overgezet (indien nodig)?

@@ -9,7 +9,7 @@ Checklist to check before a Joomla website goes live:
 ## Joomla configuration
 * Caching setup?
 * Cleared cache/tmp folders?
-* General e-mail address setup?
+* General email address setup?
 * Mail Settings setup and SMTP server setup?
 * Session settings setup?
 
@@ -37,6 +37,7 @@ Checklist to check before a Joomla website goes live:
 ## Admin Tools Pro
 * Admin Tools Pro installed and configured
 * Admin Tools Pro Never block these IPs [your own IP-address]
+* Block access to /administrator
 
 ## HTTPS
 * Certificate setup (if necessary)?

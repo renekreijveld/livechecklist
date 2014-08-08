@@ -1,13 +1,17 @@
-Checklist to check before a Joomla website goes live:
+Checklist for when a Joomla! website goes live:
 
-## Joomla/Extensies
+## Joomla!/Extensions
 * Unpublish or uninstalled all unused extensions?
 * Joomla and all extensions are up-to-date?
 * Uninstalled all unused templates?
 * ACL Manager installed and configured?
 
-## Joomla configuration
+## Joomla! configuration
+* Default Captcha set?
+  * ReCaptcha private/public keys?
+* Error reporting disabled?
 * General email address setup?
+* Server timezone set correctly?
 * Mail Settings setup and SMTP server setup?
 * Session settings setup?
 * Template "Preview Module Positions" disabled?
@@ -44,7 +48,7 @@ Checklist to check before a Joomla website goes live:
 * Joomla - editors-xtd plugins unpublished?
 
 ## XMap
-* Sitemap created for all menu's?
+* Sitemap created for all menus?
 * XML Sitemap added to Google Webmaster Tools?
 
 ## HTTPS

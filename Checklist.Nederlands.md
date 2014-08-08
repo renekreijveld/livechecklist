@@ -24,6 +24,7 @@ Checklist ter controle voor livegang van een nieuwe Jooma! website:
 ## Content
 * Oude content opgeschoond?
 * Onnodige bestanden/documenten verwijderd?
+* Alle Lorem Ipsum / dummy content verwijderd?
 * Alle verwijderde content ook echt verwijderd (prullebak legen artikelen, categorieen, menu items, modules)?
 * Development URL's in de database vervangen naar productie URL's?
 * Robots.txt goed gezet?
@@ -33,6 +34,7 @@ Checklist ter controle voor livegang van een nieuwe Jooma! website:
 * Afbeeldingen geoptimaliseerd?
 * Overbodige zoekplugins uit gezet?
 * Zoekplugins in de juiste volgorde?
+* Alle webformulieren hebben e-mail afhandeling en de e-mailadressen goed ingesteld?
 
 ## .htaccess
 * Redirect non-www to www ingesteld in .htaccess?

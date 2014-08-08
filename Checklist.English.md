@@ -24,6 +24,7 @@ Checklist for when a Joomla! website goes live:
 ## Content
 * Removed all unused content?
 * Removed all unused files and images?
+* All Lorem Ipsum / dummy content is removed?
 * Removed all deleted content (empty trash articles, categories, menu items, modules)?
 * Replaced development URLs in the database with production URLs?
 * Robots.txt setup?
@@ -33,6 +34,7 @@ Checklist for when a Joomla! website goes live:
 * Optimized images?
 * Unpublished unused search plugins?
 * Are the search plugins in the correct order?
+* All webforms have email handling and emailadresses setup correctly?
 
 ## .htaccess
 * Redirect non-www to www setup in .htaccess?

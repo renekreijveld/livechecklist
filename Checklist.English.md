@@ -8,7 +8,7 @@ Checklist for when a Joomla! website goes live:
 
 ## Joomla! configuration
 * Default Captcha set?
-  * ReCaptcha private/public keys?
+* ReCaptcha private/public keys?
 * Error reporting disabled?
 * General email address setup?
 * Server timezone set correctly?
@@ -45,7 +45,7 @@ Checklist for when a Joomla! website goes live:
 
 ## JCE Editor
 * optimized profile added/configured?
-* Joomla - editors-xtd plugins unpublished?
+* Joomla! - editors-xtd plugins unpublished?
 
 ## XMap
 * Sitemap created for all menus?

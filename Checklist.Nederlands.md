@@ -18,14 +18,15 @@ Checklist ter controle voor livegang van een nieuwe Jooma! website:
 
 ## Gebruikers
 * Onnodige logins verwijderd?
+* Onnodige gebruikersgroepen verwijderd?
 * Gebruikersregistratie toestaan uitzetten (indien nodig)
 * Wachtwoord complexiteit ingesteld?
 
 ## Content
 * Oude content opgeschoond?
-* Onnodige bestanden/documenten verwijderd?
+* Onnodige bestanden/documenten verwijderd, zoals standaard Joomla afbeeldingen?
 * Alle Lorem Ipsum / dummy content verwijderd?
-* Alle verwijderde content ook echt verwijderd (prullebak legen artikelen, categorieen, menu items, modules)?
+* Alle verwijderde content ook echt verwijderd (prullenbak legen artikelen, categorieën, menu items, modules)?
 * Development URL's in de database vervangen naar productie URL's?
 * Robots.txt goed gezet?
 * Favicon aanwezig?
@@ -44,7 +45,6 @@ Checklist ter controle voor livegang van een nieuwe Jooma! website:
 * Admin Tools Pro / jHackGuard geïnstalleerd en geconfigureerd?
 * Admin Tools Pro Never block these IPs [eigen IP-adres]
 * Toegang blokkeren tot /administrator of IP whitelist gebruiken voor /administrator
-
 
 ## JCE Editor
 * "optimized" profile ingesteld?

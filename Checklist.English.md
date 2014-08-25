@@ -18,12 +18,13 @@ Checklist for when a Joomla! website goes live:
 
 ## Users
 * Removed all unused logins?
+* Removed all unused User Groups?
 * Allow User Registration: no (if necessary)?
 * Password complexity setup?
 
 ## Content
 * Removed all unused content?
-* Removed all unused files and images?
+* Removed all unused files and images, like default Joomla images?
 * All Lorem Ipsum / dummy content is removed?
 * Removed all deleted content (empty trash articles, categories, menu items, modules)?
 * Replaced development URLs in the database with production URLs?

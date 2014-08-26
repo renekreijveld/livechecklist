@@ -30,12 +30,15 @@ Checklist ter controle voor livegang van een nieuwe Jooma! website:
 * Development URL's in de database vervangen naar productie URL's?
 * Robots.txt goed gezet?
 * Favicon aanwezig?
+* Mobiele iconen aanwezig?
 * Redirects oude URL's naar juiste nieuwe URL's ingesteld?
 * 404 pagina ingesteld?
 * Afbeeldingen geoptimaliseerd?
 * Overbodige zoekplugins uit gezet?
 * Zoekplugins in de juiste volgorde?
 * Alle webformulieren hebben e-mail afhandeling en de e-mailadressen goed ingesteld?
+* Formulierinzendingen opgeschoond?
+* Alle test nieuwsbrieven verwijderd?
 
 ## .htaccess
 * Redirect non-www to www ingesteld in .htaccess?
@@ -76,3 +79,4 @@ Checklist ter controle voor livegang van een nieuwe Jooma! website:
 * Backupschema actief?
 * Backup EN restore getest?
 * FTP login aangemaakt voor beheer?
+* Trainingswebsite gearchiveerd en verwijderd?

@@ -29,8 +29,8 @@ Checklist ter controle voor livegang van een nieuwe Jooma! website:
 * Alle verwijderde content ook echt verwijderd (prullenbak legen artikelen, categorieën, menu items, modules)?
 * Development URL's in de database vervangen naar productie URL's?
 * Robots.txt goed gezet?
-* Favicon aanwezig?
-* Mobiele iconen aanwezig?
+* Favicon aanwezig ([genereer/test](http://realfavicongenerator.net/))?
+* Mobiele iconen aanwezig ([genereer/test](http://realfavicongenerator.net/))?
 * Redirects oude URL's naar juiste nieuwe URL's ingesteld?
 * 404 pagina ingesteld?
 * Afbeeldingen geoptimaliseerd?
@@ -41,7 +41,7 @@ Checklist ter controle voor livegang van een nieuwe Jooma! website:
 * Alle test nieuwsbrieven verwijderd?
 
 ## .htaccess
-* Redirect non-www to www ingesteld in .htaccess?
+* Redirect non-www to www ingesteld in .htaccess of webserver virtualhostfile?
 * Regel toegevoegd zodat XMAP sitemap getoond kan worden als sitemap.xml?
 
 ## Beveiliging

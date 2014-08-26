@@ -29,8 +29,8 @@ Checklist for when a Joomla! website goes live:
 * Removed all deleted content (empty trash articles, categories, menu items, modules)?
 * Replaced development URLs in the database with production URLs?
 * Robots.txt setup?
-* Favicon installed?
-* Mobile icons installed?
+* Favicon installed ([generate/test](http://realfavicongenerator.net/))?
+* Mobile icons installed ([generate/test](http://realfavicongenerator.net/)?
 * URL redirects from old site to new site setup?
 * Added a 404 page?
 * Optimized images?
@@ -41,7 +41,7 @@ Checklist for when a Joomla! website goes live:
 * Cleaned all test newsletters?
 
 ## .htaccess
-* Redirect non-www to www setup in .htaccess?
+* Redirect non-www to www setup in .htaccess or webserver hostfile?
 * Added line to show XMAP sitemap as sitemap.xml?
 
 ## Security

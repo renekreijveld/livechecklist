@@ -30,7 +30,7 @@ Checklist for when a Joomla! website goes live:
 * Replaced development URLs in the database with production URLs?
 * Robots.txt setup?
 * Favicon installed ([generate/test](http://realfavicongenerator.net/))?
-* Mobile icons installed ([generate/test](http://realfavicongenerator.net/)?
+* Mobile icons installed ([generate/test](http://realfavicongenerator.net/))?
 * URL redirects from old site to new site setup?
 * Added a 404 page?
 * Optimized images?

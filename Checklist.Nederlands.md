@@ -34,9 +34,9 @@ Checklist ter controle voor livegang van een nieuwe Jooma! website:
 * Redirects oude URL's naar juiste nieuwe URL's ingesteld?
 * 404 pagina ingesteld?
 * Afbeeldingen geoptimaliseerd?
-* Overbodige zoekplugins uit gezet?
+* Overbodige zoekplugins uit gezet, ook slim zoeken content plugin?
 * Zoekplugins in de juiste volgorde?
-* Slim zoeken indexen verwijderen en opnieuw opbouwen (indien slim zoeken gebruikt)?
+* Slim zoeken indexen verwijderen en opnieuw opbouwen (als slim zoeken wordt gebruikt)?
 * Alle webformulieren hebben e-mail afhandeling en de e-mailadressen goed ingesteld?
 * Formulierinzendingen opgeschoond?
 * Alle test nieuwsbrieven verwijderd?

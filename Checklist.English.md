@@ -34,7 +34,7 @@ Checklist for when a Joomla! website goes live:
 * URL redirects from old site to new site setup?
 * Added a 404 page?
 * Optimized images?
-* Unpublished unused search plugins?
+* Unpublished unused search plugins, also the smart search plugin?
 * Are the search plugins in the correct order?
 * Clear smart search indexes and rebuild them (if smart search is used)?
 * All webforms have email handling and emailadresses setup correctly?

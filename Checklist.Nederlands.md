@@ -7,7 +7,7 @@ Checklist ter controle voor livegang van een nieuwe Jooma! website:
 * ACL Manager ingericht?
 
 ## Jooma! configuratie
-* Standaard Captcha set?
+* Standaard Captcha ingesteld?
 * ReCaptcha private/public keys?
 * Foutrapportage uitgeschakeld?
 * Algemeen e-mailadres website ingesteld?

@@ -1,4 +1,4 @@
-Checklist ter controle voor livegang van een nieuwe Jooma! website:
+Checklist ter controle voor livegang van een nieuwe Joomla! website:
 
 ## Jooma!/Extensies
 * Niet gebruikte extensies gedepubliceerd of verwijderd?

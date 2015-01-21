@@ -74,10 +74,11 @@ Checklist for when a Joomla! website goes live:
 * Cookie Law / Cookie alert
 * Social Share / AddThis installed and configured?
 
-## Diversen
+## Additional
 * Google Analytics setup?
 * Watchful.li setup?
 * Is there a backup scheme?
 * Backup AND restore tested?
 * FTP login created for support?
 * Trainingwebsite archived and removed?
+* Check your website outside your network/dns

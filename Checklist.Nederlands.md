@@ -66,7 +66,7 @@ Checklist ter controle voor livegang van een nieuwe Joomla! website:
 ## Optimalisatie / SEO
 * SEF URL's / sh404SEF geïnstalleerd en geconfigureerd?
 * URL en Meta Tag Manager geïnstalleerd en geconfigureerd?
-* MooTools Enabler/Disabler actief? (http://extensions.joomla.org/extension/mootools-enabler-disabler)
+* MooTools Enabler/Disabler actief? ([Mootools Enabler/Disabler](http://extensions.joomla.org/extension/mootools-enabler-disabler))
 * Caching ingesteld?
 * Leegmaken cache/tmp mappen?
 * JCH Optimize pro / Scriptmerge / jBetolo geïnstalleerd en geconfigureerd?

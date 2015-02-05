@@ -17,8 +17,8 @@ Checklist ter controle voor livegang van een nieuwe Joomla! website:
 * Template "Preview Module Positions" uitgezet?
 
 ## Gebruikers
-* Onnodige logins verwijderd?
-* Onnodige gebruikersgroepen verwijderd?
+* Onnodige Gebruikers uit Gebruikersbeheer verwijderd?
+* Onnodige Gebruikersgroepen verwijderd?
 * Gebruikersregistratie toestaan uit gezet? (indien nodig)
 * Wachtwoord complexiteit ingesteld?
 

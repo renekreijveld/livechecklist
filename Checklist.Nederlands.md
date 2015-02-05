@@ -1,12 +1,12 @@
 Checklist ter controle voor livegang van een nieuwe Joomla! website:
 
-## Jooma!/Extensies
+## Joomla!/Extensies
 * Niet gebruikte extensies gedepubliceerd of verwijderd?
-* Jooma! en alle extensies up-to-date?
+* Joomla! en alle extensies up-to-date?
 * Niet gebruikte templates verwijderd?
 * ACL Manager ingericht?
 
-## Jooma! configuratie
+## Joomla! configuratie
 * Standaard Captcha ingesteld?
 * ReCaptcha private/public keys?
 * Foutrapportage uitgeschakeld?
@@ -52,7 +52,7 @@ Checklist ter controle voor livegang van een nieuwe Joomla! website:
 
 ## JCE Editor
 * "optimized" profile ingesteld?
-* Jooma! - editors-xtd plugins unpublished?
+* Joomla! - editors-xtd plugins unpublished?
 
 ## XMap
 * Sitemap voor menu's aangemaakt?

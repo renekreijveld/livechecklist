@@ -19,7 +19,7 @@ Checklist ter controle voor livegang van een nieuwe Joomla! website:
 ## Gebruikers
 * Onnodige logins verwijderd?
 * Onnodige gebruikersgroepen verwijderd?
-* Gebruikersregistratie toestaan uitzetten (indien nodig)
+* Gebruikersregistratie toestaan uit gezet? (indien nodig)
 * Wachtwoord complexiteit ingesteld?
 
 ## Content
@@ -80,7 +80,7 @@ Checklist ter controle voor livegang van een nieuwe Joomla! website:
 * myJoomla audit gedaan? ([{manage}.myJoomla.com](https://myjoomla.com/))
 * Backupschema actief?
 * Backup EN restore getest?
-* FTP login aangemaakt voor beheer?
+* (S)FTP login aangemaakt voor beheer?
 * Trainingswebsite gearchiveerd en verwijderd?
 * Website getest buiten je eigen netwerk/dns?
 * Snelheid getest van de website? ([YSLOW](http://yslow.org/)), ([PageSpeed Insights](http://developers.google.com/speed/pagespeed/insights/)), ([webpagetest](http://www.webpagetest.org/))

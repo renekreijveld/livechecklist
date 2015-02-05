@@ -43,7 +43,7 @@ Checklist ter controle voor livegang van een nieuwe Joomla! website:
 
 ## .htaccess
 * Redirect non-www to www ingesteld in .htaccess of webserver virtualhostfile?
-* Regel toegevoegd zodat XMAP sitemap getoond kan worden als sitemap.xml?
+* Regel toegevoegd zodat XMAP sitemap getoond kan worden als sitemap.xml? ([voorbeeld] (https://gist.github.com/hans2103/aec679d235ff76e33822))
 
 ## Beveiliging
 * Admin Tools Pro / jHackGuard geïnstalleerd en geconfigureerd?

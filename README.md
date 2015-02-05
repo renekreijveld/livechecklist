@@ -7,6 +7,6 @@ Gebruik deze live checklists om een laatste controle uit te voeren voordat je de
 De checklists zijn beschikbaar als tekstbestanden en als Word documenten.
 
 Your Joomla website is ready to be set live, congratulations!
-Use these checjlists to do a list check before you set the website live.
+Use these checklists to do a last check before you set the website live.
 
 The checklists are available as text documents and as Word documents.

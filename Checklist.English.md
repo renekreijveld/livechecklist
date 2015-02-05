@@ -43,7 +43,7 @@ Checklist for when a Joomla! website goes live:
 
 ## .htaccess
 * Redirect non-www to www setup in .htaccess or webserver hostfile?
-* Added line to show XMAP sitemap as sitemap.xml?
+* Added line to show XMAP sitemap as sitemap.xml? ([example] (https://gist.github.com/hans2103/aec679d235ff76e33822))
 
 ## Security
 * Admin Tools Pro / jHackGuard installed and configured?

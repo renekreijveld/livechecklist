@@ -17,7 +17,7 @@ Checklist for when a Joomla! website goes live:
 * Template "Preview Module Positions" disabled?
 
 ## Users
-* Removed all unused logins?
+* Removed all unused Users from User Manager?
 * Removed all unused User Groups?
 * Allow User Registration: no (if necessary)?
 * Password complexity setup?

@@ -43,7 +43,6 @@ Checklist for when a Joomla! website goes live:
 
 ## .htaccess
 * Redirect non-www to www setup in .htaccess or webserver hostfile?
-* Added line to show XMAP sitemap as sitemap.xml? ([example] (https://gist.github.com/hans2103/aec679d235ff76e33822))
 
 ## Security
 * Admin Tools Pro / jHackGuard installed and configured?
@@ -56,7 +55,8 @@ Checklist for when a Joomla! website goes live:
 
 ## XMap
 * Sitemap created for all menus?
-* XML Sitemap added to Google Webmaster Tools? ([example](https://gist.github.com/hans2103/aec679d235ff76e33822))
+* Add line to .htaccess to show XMAP sitemap as sitemap.xml? ([example] (https://gist.github.com/hans2103/aec679d235ff76e33822)) Carefull: use a different solution for multilingual sites.
+* XML Sitemap added to Google Webmaster Tools?
 
 ## HTTPS
 * Certificate setup (if necessary)?

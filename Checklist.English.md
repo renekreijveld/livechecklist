@@ -56,7 +56,7 @@ Checklist for when a Joomla! website goes live:
 
 ## XMap
 * Sitemap created for all menus?
-* XML Sitemap added to Google Webmaster Tools?
+* XML Sitemap added to Google Webmaster Tools? ([example](https://gist.github.com/hans2103/aec679d235ff76e33822))
 
 ## HTTPS
 * Certificate setup (if necessary)?

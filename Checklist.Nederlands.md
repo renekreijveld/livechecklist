@@ -56,7 +56,7 @@ Checklist ter controle voor livegang van een nieuwe Joomla! website:
 
 ## XMap
 * Sitemap voor menu's aangemaakt?
-* XML Sitemap aan Google Webmaster Tools toegevoegd?
+* XML Sitemap aan Google Webmaster Tools toegevoegd? ([voorbeeld](https://gist.github.com/hans2103/aec679d235ff76e33822))
 
 ## HTTPS
 * Certificaat overgezet (indien nodig)?

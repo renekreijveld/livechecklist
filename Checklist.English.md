@@ -62,7 +62,6 @@ Checklist for when a Joomla! website goes live:
 ## HTTPS
 * Certificate setup (if necessary)?
 * Activated HTTPS (if necessary)?
-* Admin Tools Pro: Convert all links to HTTPS when site is accessed over SSL (if necessary)
 
 ## Optimisation / SEO
 * SEF URLs / sh404SEF installed and configured?

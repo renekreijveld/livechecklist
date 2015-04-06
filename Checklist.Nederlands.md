@@ -62,7 +62,6 @@ Checklist ter controle voor livegang van een nieuwe Joomla! website:
 ## HTTPS
 * Certificaat overgezet (indien nodig)?
 * HTTPS aangezet (indien nodig)?
-* Admin Tools Pro: Convert all links to HTTPS when site is accessed over SSL (indien nodig)
 
 ## Optimalisatie / SEO
 * SEF URL's / sh404SEF geïnstalleerd en geconfigureerd?

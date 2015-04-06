@@ -54,9 +54,9 @@ Checklist ter controle voor livegang van een nieuwe Joomla! website:
 * "optimized" profiel ingesteld?
 * Joomla! - editors-xtd plugins unpublished?
 
-## XMap
+## OSMap
 * Sitemap voor menu's aangemaakt?
-* Regel toegevoegen aan .htaccess zodat XMAP sitemap getoond kan worden als sitemap.xml? ([voorbeeld] (https://gist.github.com/hans2103/aec679d235ff76e33822)) Let op: gebruik een andere oplossing voor meertalige websites.
+* Regel toegevoegen aan .htaccess zodat OSMAP sitemap getoond kan worden als sitemap.xml? ([voorbeeld] (https://gist.github.com/hans2103/aec679d235ff76e33822)) Let op: gebruik een andere oplossing voor meertalige websites.
 * XML Sitemap aan Google Webmaster Tools toegevoegd?
 
 ## HTTPS

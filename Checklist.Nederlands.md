@@ -26,7 +26,7 @@ Checklist ter controle voor livegang van een nieuwe Joomla! website:
 * Oude content opgeschoond?
 * Onnodige bestanden/documenten verwijderd, zoals standaard Joomla afbeeldingen?
 * Alle Lorem Ipsum / dummy content verwijderd?
-* Alle verwijderde content ook echt verwijderd (prullenbak legen artikelen, categorieën, menu items, modules)?
+* Alle verwijderde content verwijderd (prullenbak leeg artikelen, categorieën, menu items, modules)?
 * Development URL's in de database vervangen naar productie URL's?
 * Robots.txt goed gezet?
 * Favicon aanwezig ([genereer/test](http://realfavicongenerator.net/))?
@@ -42,8 +42,8 @@ Checklist ter controle voor livegang van een nieuwe Joomla! website:
 * Alle test nieuwsbrieven verwijderd?
 
 ## .htaccess
-* Redirect non-www naar www ingesteld in .htaccess of webserver virtualhostfile?
-* Redirect non-ssl naar ssl setup in .htaccess?
+* Redirect non-www naar www ingesteld in .htaccess?
+* Redirect non-ssl naar ssl ingesteld in .htaccess?
 
 ## Beveiliging
 * Admin Tools Pro / jHackGuard / AdminExile geïnstalleerd en geconfigureerd?

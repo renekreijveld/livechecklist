@@ -42,7 +42,7 @@ Checklist for when a Joomla! website goes live:
 * Cleaned all test newsletters?
 
 ## .htaccess
-* Redirect non-www to www setup in .htaccess or webserver hostfile?
+* Redirect non-www to www setup in .htaccess?
 * Redirect non-ssl to ssl setup in .htaccess?
 
 ## Security

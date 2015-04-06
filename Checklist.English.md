@@ -7,8 +7,8 @@ Checklist for when a Joomla! website goes live:
 * ACL Manager installed and configured?
 
 ## Joomla! configuration
-* Default Captcha set?
 * ReCaptcha private/public keys?
+* Default Captcha set?
 * Error reporting disabled?
 * General email address setup?
 * Server timezone set correctly?

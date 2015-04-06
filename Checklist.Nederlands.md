@@ -7,8 +7,8 @@ Checklist ter controle voor livegang van een nieuwe Joomla! website:
 * ACL Manager ingericht?
 
 ## Joomla! configuratie
-* Standaard Captcha ingesteld?
 * ReCaptcha private/public keys?
+* Standaard Captcha ingesteld?
 * Foutrapportage uitgeschakeld?
 * Algemeen e-mailadres website ingesteld?
 * Tijdzone server goed ingesteld?

@@ -47,7 +47,7 @@ Checklist for when a Joomla! website goes live:
 
 ## Security
 * Admin Tools Pro / jHackGuard / AdminExile installed and configured?
-* Admin Tools Pro Never block these IPs [your own IP-address]
+* Prevent blocking own IP-addresses
 * Block access to /administrator with admin secret URL parameter or use IP whitelist for /administrator
 
 ## JCE Editor

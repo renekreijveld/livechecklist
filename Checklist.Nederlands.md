@@ -47,7 +47,7 @@ Checklist ter controle voor livegang van een nieuwe Joomla! website:
 
 ## Beveiliging
 * Admin Tools Pro / jHackGuard / AdminExile geïnstalleerd en geconfigureerd?
-* Admin Tools Pro Never block these IPs [eigen IP-adres]
+* Voorkom blokkade eigen IP-adressen
 * Toegang blokkeren tot /administrator of IP whitelist gebruiken voor /administrator
 
 ## JCE Editor

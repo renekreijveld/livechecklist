@@ -64,12 +64,11 @@ Checklist for when a Joomla! website goes live:
 * Activated HTTPS (if necessary)?
 
 ## Optimisation / SEO
-* SEF URLs / sh404SEF installed and configured?
-* URL and Meta Tag Manager installed and configured?
+* Search-engine friendly URLs installed and configured?
 * Mootools enabler/disabler active? ([Mootools Enabler/Disabler](http://extensions.joomla.org/extension/mootools-enabler-disabler))
 * Caching setup?
 * Cleared cache/tmp folders?
-* JCH Optimize pro / Scriptmerge / jBetolo installed and configured
+* CSS/Javascript compress/merge installed and configured?
 * CDN activated?
 * Cookie Law / Cookie alert
 * Social Share / AddThis installed and configured?

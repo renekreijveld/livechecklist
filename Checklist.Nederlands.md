@@ -19,7 +19,7 @@ Checklist ter controle voor livegang van een nieuwe Joomla! website:
 ## Gebruikers
 * Onnodige Gebruikers uit Gebruikersbeheer verwijderd?
 * Onnodige Gebruikersgroepen verwijderd?
-* Gebruikersregistratie toestaan uit gezet? (indien nodig)
+* Gebruikersregistratie toestaan uitgezet? (indien nodig)
 * Wachtwoord complexiteit ingesteld?
 
 ## Content
@@ -64,12 +64,11 @@ Checklist ter controle voor livegang van een nieuwe Joomla! website:
 * HTTPS aangezet (indien nodig)?
 
 ## Optimalisatie / SEO
-* SEF URL's / sh404SEF geïnstalleerd en geconfigureerd?
-* URL en Meta Tag Manager geïnstalleerd en geconfigureerd?
+* Zoekmachine-vriendelijke URL's geïnstalleerd en geconfigureerd?
 * MooTools Enabler/Disabler actief? ([Mootools Enabler/Disabler](http://extensions.joomla.org/extension/mootools-enabler-disabler))
 * Caching ingesteld?
 * Leegmaken cache/tmp mappen?
-* JCH Optimize pro / Scriptmerge / jBetolo geïnstalleerd en geconfigureerd?
+* CSS/Javascript compress/merge geïnstalleerd en geconfigureerd?
 * CDN geactiveerd?
 * Cookie Law / Cookie alert
 * Social Share / AddThis geïnstalleerd en geconfigureerd?

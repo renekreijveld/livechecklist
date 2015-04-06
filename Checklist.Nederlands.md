@@ -51,7 +51,7 @@ Checklist ter controle voor livegang van een nieuwe Joomla! website:
 * Toegang blokkeren tot /administrator of IP whitelist gebruiken voor /administrator
 
 ## JCE Editor
-* "optimized" profile ingesteld?
+* "optimized" profiel ingesteld?
 * Joomla! - editors-xtd plugins unpublished?
 
 ## XMap

@@ -42,10 +42,11 @@ Checklist ter controle voor livegang van een nieuwe Joomla! website:
 * Alle test nieuwsbrieven verwijderd?
 
 ## .htaccess
-* Redirect non-www to www ingesteld in .htaccess of webserver virtualhostfile?
+* Redirect non-www naar www ingesteld in .htaccess of webserver virtualhostfile?
+* Redirect non-ssl naar ssl setup in .htaccess?
 
 ## Beveiliging
-* Admin Tools Pro / jHackGuard geïnstalleerd en geconfigureerd?
+* Admin Tools Pro / jHackGuard / AdminExile geïnstalleerd en geconfigureerd?
 * Admin Tools Pro Never block these IPs [eigen IP-adres]
 * Toegang blokkeren tot /administrator of IP whitelist gebruiken voor /administrator
 

@@ -43,9 +43,10 @@ Checklist for when a Joomla! website goes live:
 
 ## .htaccess
 * Redirect non-www to www setup in .htaccess or webserver hostfile?
+* Redirect non-ssl to ssl setup in .htaccess?
 
 ## Security
-* Admin Tools Pro / jHackGuard installed and configured?
+* Admin Tools Pro / jHackGuard / AdminExile installed and configured?
 * Admin Tools Pro Never block these IPs [your own IP-address]
 * Block access to /administrator with admin secret URL parameter or use IP whitelist for /administrator
 

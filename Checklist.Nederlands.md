@@ -11,8 +11,9 @@ Checklist ter controle voor livegang van een nieuwe Joomla! website:
 * Standaard Captcha ingesteld?
 * Foutrapportage uitgeschakeld?
 * Algemeen e-mailadres website ingesteld?
-* Tijdzone server goed ingesteld?
 * SMTP server ingesteld in de e-mailinstellingen?
+* Groepsmail uitgeschakeld?
+* Tijdzone server goed ingesteld?
 * Sessie levensduur ingesteld?
 * Template "Preview Module Positions" uitgezet?
 

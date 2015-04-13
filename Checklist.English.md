@@ -11,8 +11,9 @@ Checklist for when a Joomla! website goes live:
 * Default Captcha set?
 * Error reporting disabled?
 * General email address setup?
-* Server timezone set correctly?
 * Mail Settings setup and SMTP server setup?
+* Mass Mail disabled?
+* Server timezone set correctly?
 * Session settings setup?
 * Template "Preview Module Positions" disabled?
 

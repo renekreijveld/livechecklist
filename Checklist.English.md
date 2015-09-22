@@ -16,6 +16,7 @@ Checklist for when a Joomla! website goes live:
 * Server timezone set correctly?
 * Session settings setup?
 * Template "Preview Module Positions" disabled?
+* Feed Email Address to "No Email"?
 
 ## Users
 * Removed all unused Users from User Manager?

@@ -70,6 +70,7 @@ Checklist ter controle voor livegang van een nieuwe Joomla! website:
 * MooTools Enabler/Disabler actief? ([Mootools Enabler/Disabler](http://extensions.joomla.org/extension/mootools-enabler-disabler))
 * Caching ingesteld?
 * Leegmaken cache/tmp mappen?
+* Varnish ingesteld?
 * CSS/Javascript compress/merge geïnstalleerd en geconfigureerd?
 * CDN geactiveerd?
 * Cookie Law / Cookie alert

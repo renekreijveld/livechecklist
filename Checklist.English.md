@@ -70,6 +70,7 @@ Checklist for when a Joomla! website goes live:
 * Mootools enabler/disabler active? ([Mootools Enabler/Disabler](http://extensions.joomla.org/extension/mootools-enabler-disabler))
 * Caching setup?
 * Cleared cache/tmp folders?
+* Varnish setup?
 * CSS/Javascript compress/merge installed and configured?
 * CDN activated?
 * Cookie Law / Cookie alert

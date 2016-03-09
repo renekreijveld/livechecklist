@@ -43,6 +43,10 @@ Checklist ter controle voor livegang van een nieuwe Joomla! website:
 * Formulierinzendingen opgeschoond?
 * Alle test nieuwsbrieven verwijderd?
 
+## Layout
+* Website getest in alle hoofdbrowsers (OSX: Safari, Chrome, Firefox. Windows: IE, Edge, Chrome, Firefox.)
+* Mobiele template aanwezig en getest?
+
 ## .htaccess
 * Redirect non-www naar www ingesteld in .htaccess?
 * Redirect non-ssl naar ssl ingesteld in .htaccess?

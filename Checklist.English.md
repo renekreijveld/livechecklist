@@ -43,6 +43,10 @@ Checklist for when a Joomla! website goes live:
 * Cleaned form submissions?
 * Cleaned all test newsletters?
 
+## Layout
+* Website tested in all major browsers (OSX: Safari, Chrome, Firefox. Windows: IE, Edge, Chrome, Firefox.)
+* Mobile template present and tested?
+
 ## .htaccess
 * Redirect non-www to www setup in .htaccess?
 * Redirect non-ssl to ssl setup in .htaccess?
@@ -85,4 +89,4 @@ Checklist for when a Joomla! website goes live:
 * (S)FTP login created for support?
 * Trainingwebsite archived and removed?
 * Website checked outside your own network/dns?
-* Speed checked of the website? ([YSLOW](http://yslow.org/)), ([PageSpeed Insights](http://developers.google.com/speed/pagespeed/insights/)), ([webpagetest](http://www.webpagetest.org/)) 
+* Speed checked of the website? ([YSLOW](http://yslow.org/)), ([PageSpeed Insights](http://developers.google.com/speed/pagespeed/insights/)), ([webpagetest](http://www.webpagetest.org/))

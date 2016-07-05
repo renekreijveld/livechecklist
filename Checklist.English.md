@@ -89,4 +89,4 @@ Checklist for when a Joomla! website goes live:
 * (S)FTP login created for support?
 * Trainingwebsite archived and removed?
 * Website checked outside your own network/dns?
-* Speed checked of the website? ([YSLOW](http://yslow.org/)), ([PageSpeed Insights](http://developers.google.com/speed/pagespeed/insights/)), ([webpagetest](http://www.webpagetest.org/))
+* Speed checked of the website? ([YSLOW](http://yslow.org/)), ([PageSpeed Insights](http://developers.google.com/speed/pagespeed/insights/)), ([webpagetest](http://www.webpagetest.org/)), ([yellowlabs](http://yellowlab.tools/))

@@ -89,4 +89,4 @@ Checklist ter controle voor livegang van een nieuwe Joomla! website:
 * (S)FTP login aangemaakt voor beheer?
 * Trainingswebsite gearchiveerd en verwijderd?
 * Website getest buiten je eigen netwerk/dns?
-* Snelheid getest van de website? ([YSLOW](http://yslow.org/)), ([PageSpeed Insights](http://developers.google.com/speed/pagespeed/insights/)), ([webpagetest](http://www.webpagetest.org/)), ([yellowlabs](http://yellowlab.tools/))
+* Snelheid getest van de website? ([GTMetrix](https://gtmetrix.com/)), ([PageSpeed Insights](http://developers.google.com/speed/pagespeed/insights/)), ([webpagetest](http://www.webpagetest.org/)), ([yellowlabs](http://yellowlab.tools/))

@@ -87,7 +87,7 @@ Checklist ter controle voor livegang van een nieuwe Joomla! website:
 * Joomla Updatemelding plugin gepubliceerd/gedepubliceerd?
 * Backupschema actief?
 * Backup EN restore getest?
-* Loglevel in Akeeba Backup profiel ingesteld of op geen loggin gezet?
+* Loglevel in Akeeba Backup profiel ingesteld of op geen logging gezet?
 * (S)FTP login aangemaakt voor beheer?
 * Trainingswebsite gearchiveerd en verwijderd?
 * Website getest buiten je eigen netwerk/dns?
